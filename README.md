@@ -26,20 +26,6 @@ notebooks/ - Additional Jupyter notebooks for exploratory analysis.
 
 README.md - This document.
 
-# Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/mlb-2024-analysis.git
-cd mlb-2024-analysis
-
-Install the required dependencies:
-
-pip install -r requirements.txt
-
-Open the Jupyter Notebook:
-
-jupyter notebook
 
 # Data Sources
 
