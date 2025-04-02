@@ -1,10 +1,10 @@
-MLB 2024 Season Analysis
+# MLB 2024 Season Analysis
 
-Overview
+# Overview
 
 This repository contains analysis of the 2024 Major League Baseball (MLB) season. The focus is on evaluating team and player performances in hitting, fielding, and pitching. The project involves data processing, statistical analysis, and predictive modeling using machine learning techniques.
 
-Features
+# Features
 
 Hitting Analysis: Evaluating player and team performance in offensive statistics such as batting average, on-base percentage, slugging percentage, and advanced metrics.
 
@@ -14,7 +14,7 @@ Pitching Analysis: Examining pitchers’ performance using ERA, WHIP, strikeout 
 
 Machine Learning Models: Implementing predictive models to analyze trends and forecast player and team performances.
 
-Repository Structure
+# Repository Structure
 
 mlb_2024.ipynb - Jupyter Notebook containing data analysis and visualizations.
 
@@ -26,7 +26,7 @@ notebooks/ - Additional Jupyter notebooks for exploratory analysis.
 
 README.md - This document.
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -41,7 +41,7 @@ Open the Jupyter Notebook:
 
 jupyter notebook
 
-Data Sources
+# Data Sources
 
 The data used in this analysis comes from publicly available MLB statistics and may include sources like:
 
@@ -51,7 +51,7 @@ FanGraphs
 
 Statcast
 
-Future Work
+# Future Work
 
 Expanding statistical models to improve prediction accuracy.
 
@@ -61,6 +61,6 @@ Comparing historical data with the 2024 season.
 
 Developing interactive dashboards.
 
-Contributions
+# Contributions
 
 Contributions are welcome! If you would like to improve the analysis or add new features, feel free to open an issue or submit a pull request.
