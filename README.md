@@ -1,8 +1,8 @@
-# MLB 2024 Season Analysis
+# MLB Player Analysis
 
 # Overview
 
-This repository contains analysis of the 2024 Major League Baseball (MLB) season. The focus is on evaluating team and player performances in hitting, fielding, and pitching. The project involves data processing, statistical analysis, and predictive modeling using machine learning techniques.
+This repository contains analysis of Major League Baseball (MLB) seasons. The focus is on evaluating team and player performances in hitting, fielding, and pitching. The project involves data processing, statistical analysis, and predictive modeling using machine learning techniques.
 
 # Features
 
@@ -43,7 +43,7 @@ Expanding statistical models to improve prediction accuracy.
 
 Adding visualizations for better insights into team and player trends.
 
-Comparing historical data with the 2024 season.
+Comparing historical data with each season.
 
 Developing interactive dashboards.
 
